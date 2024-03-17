@@ -4,7 +4,7 @@ final class PDOConnexion {
     //Instance de la class PDOConnexion
     private static $instance;
     private static $type = "mysql";
-    private static $host = "mysql.info.unicaen.fr";
+    private static $host = null;
     private static $dbname = null;
     private static $user = null;
     private static $pwd = null;
