@@ -4,9 +4,11 @@
  Les fonctionnalités du site comptent :
  <ul>
    <li>Affichage des différents produits</li>
-   <li><ul>Système de compte client :
+   <li>Système de compte client :
+   <ul>
      <li>Connexion par Session</li>
-     <li>Favoris Clients</li></ul></li>
+     <li>Favoris Clients</li>
+   </ul></li>
    <li>Système de gestion des commandes</li>
    <li>Identifiants cryptés</li>
  </ul>
