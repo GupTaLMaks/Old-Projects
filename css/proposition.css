@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+#ins{
+    text-decoration: none;
+    font-family: "Montserrat";
+    color: #663907;;
+}
+.avous{
+    position: relative;
+    background-color: #BFD8EF;
+    font-size: 22px;
+    font-family:"Montserrat";
+    text-align: center;
+    height: 300px;
+}
+.newclient{
+    position: relative;
+    background-color: #BFD8EF;
+    font-size: 22px;
+    font-family:"Montserrat";
+    text-align: center;
+    height: 100px;
+}
+.texte{
+    margin: 60px;
+    color: #663907;
+
+}
+.image{
+    height: 400px;
+}
+#titre{
+    position: relative;
+    top: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+form {
+    font-family: "Montserrat";
+    color: #663907;
+    margin: 100px;
+    font-size: 22px;
+}
+
+form div{
+    margin-bottom: 30px;
+    display: flex;
+}
+
+form div input{
+    border: 1px solid;
+    border-radius: 15px;
+    height: 30px;
+    width: 20%;
+}
+label {
+    margin-left: 10%;
+    width: 200px;
+}
+
+#fichier{
+    border: 1px solid;
+    border-radius: 50px;
+    height: 300px;
+    width: 80%;
+}
+.fichier {
+    flex-direction: column;
+    align-items: center;
+}
+.fichier>label {
+    width: 400px;
+    align-self: flex-start;
+}
+
+.bouton{
+    text-align: center;
+    justify-content: center;
+}
+
+#bouton{
+
+    background-color:  #4998CE;
+    color: white;
+    font-family: "Montserrat", "bold";
+    width: 400px;
+    height: 80px;
+    font-weight: 500;
+    font-size: 25px;
+    border: 1px solid;
+    border-radius: 40px;
+}
+
+
+

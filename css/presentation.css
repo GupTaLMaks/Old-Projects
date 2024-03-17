@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+
+.presentation{
+    position: relative;
+    background-color: #BFD8EF;
+    color: white;
+    font-size: 18px;
+    font-family:"Montserrat";
+    text-align: center;
+    height: 350px;
+}
+
+.texte{
+    margin: 60px;
+    color: #663907;
+
+}
+
+#titre{
+    position: relative;
+    top: 30px;
+}
+
+.image{
+    margin-top: 40px;
+    height: 400px;
+}

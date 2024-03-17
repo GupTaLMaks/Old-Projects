@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+
+body{
+    margin:0;
+}
+
+
+.editon{
+    position: relative;
+
+}
+
+.texte{
+    position: absolute;
+    top: 50%;
+    margin-left: 60px;
+    color: white;
+    font-size: 30px;
+    font-family:"Montserrat";
+    font-weight: bold;
+}
+
+.texte input{
+    width: 180px;
+    height: 40px;
+    background-color: white;
+    border : none;
+    border-radius: 30px;
+    font-size: 20px;
+    color:#663907;
+    font-family:"Montserrat";
+    font-weight: bold;
+    
+
+}
+
+.sec1{
+    height: 200px;
+}
+
+.best_sellers{
+    background-color: #BFD8EF;
+    font-family:"Montserrat";
+    color:#663907;
+    font-size: 20px;
+}
+
+.b{
+    width: 25%;
+    text-decoration: none;
+    color: #663907;
+}
+.totes{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+h3{
+    color: white;
+    margin-left: 5%;
+    padding-top: 30px;
+    font-family:"Montserrat";
+}
+.h3sec{
+    text-shadow: 1px 1px #888;
+}
+.t1{
+    padding-left: 20px;
+}
+
+.t2{
+    padding-left: 20px;
+}
+
+.t3{
+    text-align: right;
+    padding-right: 50px;
+    margin-top: 0;
+    transform: translateY(-40px);
+}
+
+.sec4{
+    height: 500px;
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.new{
+    display: inline-block;
+    width: 38%;
+    padding-top: 50px;
+    
+}
+
+.vosd{
+    display: inline-block;
+    width: 38%;
+    padding-top: 50px;
+}
+
+.newT{
+    position: absolute;
+    top: 10px;
+    width: 30%;
+    margin-left: 60px;
+    color:#663907;
+    font-size: 30px;
+    font-family:"Montserrat";
+}
+
+.newT input{
+    width: 180px;
+    height: 40px;
+    background-color: white;
+    border : none;
+    border-radius: 30px;
+    font-size: 23px;
+    color:#663907;
+    font-family:"Montserrat";
+}
+
+.newH{
+    color:#663907;
+    margin-left: 0;
+}
+
+.vosdT{
+    position: absolute;
+    top: 10px;
+    width: 30%;
+    margin-left: 60px;
+    color:#663907;
+    font-size: 30px;
+    font-family:"Montserrat";
+}
+
+.vosdT input{
+    width: 180px;
+    height: 40px;
+    background-color: white;
+    border : none;
+    border-radius: 30px;
+    font-size: 23px;
+    color:#663907;
+    font-family:"Montserrat";
+}
+
+
+.partage{
+    height: 500px;
+    background-color: #BFD8EF;
+   
+}
+#publis{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.p{
+    display: inline-block;
+    width: 18%;
+    font-family:"Montserrat";
+}
+
+.vide{
+    height: 50px;
+}

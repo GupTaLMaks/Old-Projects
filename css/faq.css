@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+
+
+.titre{
+    background-color: #BFD8EF;
+    font-family: "Montserrat";
+    color: white;
+    text-align: center;
+    font-size: 25px; 
+    margin-bottom: 60px;
+}
+
+h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.question{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: "Montserrat";
+    text-align: justify;
+    font-size: 20px;
+    color: #663907; 
+}
+
+h4{
+    text-align: center;
+    color: #50A8D8;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+
+
+.titre{
+    background-color: #BFD8EF;
+    font-family: "Montserrat";
+    color: white;
+    text-align: center;
+    font-size: 22px; 
+    margin-bottom: 60px;
+}
+
+.titre > h2{
+    padding-top: 20px;
+}
+
+#vigueur{
+    padding-bottom: 20px;
+}
+
+#termes{
+    font-family: "Montserrat";
+    color: #663907;
+    text-align: justify;
+    font-size: 18px; 
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h4{
+    color: #50A8D8;
+}

@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+
+
+.vide{
+    height: 120px;
+    position: relative;
+}
+#text{
+    margin-left: 8%;
+    position: absolute;
+    top: calc(25% - 25pt);
+    z-index: 3;
+    font-family: "Montserrat";
+    color: white;
+    font-size: 25pt;
+    letter-spacing: 2pt;
+}
+.nostotes{
+    position: relative;
+    background-color: #BFD8EF;
+    color: white;
+    font-size: 22px;
+    font-family:"Montserrat";
+    text-align: center;
+    width: 100%;
+    height: 250px;
+}
+#save{
+    clip-path: inset(20% 0 20% 0);
+    transform: translate(0, -20%);
+}
+.theme{
+    position: relative;
+    max-height: 300px;
+}
+#stw{
+    position: relative;
+    max-height: 350px;
+}
+.theme>#text,#stw>#text{
+    top: calc(50% - 25pt);
+}
+#themeimg{
+    clip-path: inset(40% 0 30% 0);
+    transform: translate(0, -40%);
+}
+.texte{
+    margin: 60px;
+    color: #663907;
+
+}
+
+#collections{
+    font-family: "Montserrat";
+    
+}
+.collection {
+    position: relative;
+    background-color: #BFD8EF;
+    height: 120px;
+    color: #663907;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.collection h3 {
+    padding-top: 40px;
+}
+.totes{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.favoris{
+    font-family: "Montserrat";
+    position: relative;
+    background-color: #BFD8EF;
+    height: 120px;
+    color: #663907;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.favoris h3 {
+    padding-top: 40px;
+}
+
+.sec1tote{
+    position: relative;
+    height: 200px;
+    width: 100%;
+}
+.stw{
+    font-family:"Montserrat";
+    color:#663907;
+    font-size: 20px;
+}
+.b{
+    font-family: "Montserrat";
+    width: 30%;
+    margin: 5%;
+    text-decoration: none;
+    color: #663907;
+}
+.t1{
+    padding-left: 20px;
+}
+
+.t2{
+    padding-left: 20px;
+}
+
+.t3{
+    text-align: right;
+    padding-right: 50px;
+    margin-top: 0;
+    transform: translateY(-40px);
+}

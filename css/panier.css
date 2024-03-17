@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+body{
+    margin:0;
+}
+
+.panier{
+    position: relative;
+    background-color: #BFD8EF;
+    height: 100px;
+    color:  white;
+    font-size: 30px;
+    font-family:"Montserrat";
+    text-align: center;
+}
+
+.panier > h3{
+    margin:0%;
+    padding-top:30px;
+}
+
+.bouton > a input{
+    width: 300px;
+    height: 50px;
+    background-color: #663907;
+    border : none;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    font-family:"Montserrat";
+    margin:20px;
+}
+
+table{
+    border-collapse: collapse;
+    margin:20px 5%;
+    width: 90%;
+    font-family:"Montserrat";
+    color: #663907;
+}
+td>a{
+    text-decoration: none;
+    color: #663907;
+}
+th{
+    border: 1px solid gray;
+    padding: 20px 0;
+    font-size: 25px;
+    background-color: #F5F5F5;
+}
+
+td:not(#vide){
+    border: 1px solid gray;
+    padding: 20px 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#img{
+    max-width: 30%;
+}
+
+#titre{
+    position: absolute;
+    display: inline-block;
+}
+
+#qt{
+    position: absolute;
+    display: inline-block;
+    margin-top: 60px;
+}
+.prix,#t1{width: 20%;}
+
+#commande {
+    display: flex;
+    width: 90%;
+    margin-bottom: 50px;
+    justify-content: flex-end;
+}
+
+#valider{
+    position: relative;
+    background-color: #CC0ECC;
+    border-radius: 20px;
+    border: 1px solid;
+    color:white;
+    font-family:"Montserrat";
+    font-size: 20px;
+    left: 5%;
+    height: 40px;
+    width: 250px;
+}
+
+.corbeille {
+    width: 25px;
+    position: absolute;
+    right: 25%;
+}

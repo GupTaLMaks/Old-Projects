@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body{
+    margin:0;
+}
+
+.nostotes{
+    position: relative;
+    background-color: #BFD8EF;
+    color: white;
+    font-size: 22px;
+    font-family:"Montserrat";
+    text-align: center;
+    height: 300px;
+    
+
+}
+
+.texte{
+    margin: 60px;
+    color: #663907;
+
+}
+
+#titre{
+    position: relative;
+    top: 30px;
+}
+
+.sec1{
+    position: relative;
+    height: 200px;
+}
+
+.vosdesign{
+    position: relative;
+    height: auto;
+
+}
+
+#text{
+    position: absolute;
+    top: 80px;
+    margin-left: 60px;
+    color: white;
+    font-size: 30px;
+    font-family:"Montserrat";
+}
+
+
+.best_sellers{
+    position: relative;
+    margin-left: 10%;
+    font-family:"Montserrat";
+    color:#663907;
+    font-size: 20px;
+}
+
+.b1{
+    display: inline-block;
+    width: 600px;
+
+}
+
+.t1{
+    padding-left: 100px;
+}
+
+.t2{
+    padding-left: 20px;
+
+}
+
+.t3{
+    padding-left: 300px;
+}
