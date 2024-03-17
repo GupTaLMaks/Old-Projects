@@ -1,0 +1,15 @@
+INSERT INTO produits (nomprod, prix, description, ref, img, stock, dateajout, idcollection) VALUES
+('I AM NOT PLASTIC', 19.99, 'Illustration I Am Not Plastic, réalisée par ToteWorld.<br>Collection Save The World.', 1, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/notplastic.png', 19, now(), 1),
+('REUSE multicolore', 19.99, 'Illustration ReUse multicolore, réalisée par ToteWorld.<br>Collection Save The World.', 2, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/reuse2.png', 16, now(), 1),
+('REUSE', 19.99, 'Illustration ReUse, réalisée par ToteWorld.<br>Collection Save The World.', 3, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/reuse.png', 16, now(), 1),
+('NATURE', 19.99, 'Illustration Nature, réalisée par ToteWorld.<br>Collection Save The World.', 4, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/nature.png', 19, now(), 1),
+('Planète', 19.99, 'Illustration Planète, réalisée par ToteWorld.<br>Collection Save The World.', 5, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/planete.png', 13, now(), 1),
+('Ecology', 19.99, 'Illustration Ecology, réalisée par ToteWorld.<br>Collection Save The World.', 6, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/ecology.png', 14, now(), 1),
+('Fleuri 1', 19.99, 'Illustration Fleuri 1, réalisée par ToteWorld.<br>Collection Flowers Of The World.', 7, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/fleuri.png', 19, now(), 2),
+('Fleuri 2', 19.99, 'Illustration Fleuri 2, réalisée par ToteWorld.<br>Collection Flowers Of The World.', 8, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/fleuri2.png', 17, now(), 2),
+('Fleuri 3', 19.99, 'Illustration Fleuri 3, réalisée par ToteWorld.<br>Collection Flowers Of The World.', 9, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/fleuri3.png', 18, now(), 2),
+('Bee Well Soon', 19.99, 'Illustration Bee Well Soon, réalisée par ToteWorld.<br>Collection Flowers Of The World.', 10, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/beewellsoon.png', 15, now(), 2),
+('Tropical', 19.99, 'Illustration Tropical, réalisée par ToteWorld.<br>Collection Sunny Days.', 11, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/tropical.png', 12, now(), 3),
+('Beach', 19.99, 'Illustration Beach, réalisée par ToteWorld.<br>Collection Sunny Days.', 12, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/beach.png', 14, now(), 3),
+('Hello Summer', 19.99, 'Illustration Hello Summer, réalisée par ToteWorld.<br>Collection Sunny Days.', 13, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/hellosummer.png', 9, now(), 3),
+('Hello Summer 2', 19.99, 'Illustration Hello Summer 2, réalisée par ToteWorld.<br>Collection Sunny Days.', 14, 'https://dev-22002914.users.info.unicaen.fr/Toteworld/images/hellosummer2.png', 8, now(), 3);
